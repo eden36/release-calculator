@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "android_url": "https://github.com/eden36/release-calculator/releases/download/v1.2.4/my-calculator-android-v1.2.4.apk",
-  "android_sha256": "11fdd22b91ea7ba9e57cb1721529d5e83cfc77f8280e22c752a4ba5ddf72cd34",
-  "windows_url": "https://github.com/eden36/release-calculator/releases/download/v1.2.4/my-calculator-windows-v1.2.4-setup.exe",
-  "windows_sha256": "35c3dc2ab872c2e4bf361ec79da02eecfcfd78200e2afd47b3441a867bbc9634",
+  "version": "1.2.5",
+  "android_url": "https://github.com/eden36/release-calculator/releases/download/v1.2.5/my-calculator-android-v1.2.5.apk",
+  "android_sha256": "f7711b7bea895328eae8c36238611f323e02e771b9045052cd48060f2190c125",
+  "windows_url": "https://github.com/eden36/release-calculator/releases/download/v1.2.5/my-calculator-windows-v1.2.5-setup.exe",
+  "windows_sha256": "6d9808e097dac7f414cadeae5c823bdf08e52ac0c11f8aacc259c4fe820ec8bb",
   "changelog": "",
-  "released_at": "2026-10-11"
+  "released_at": "2026-10-16"
 }
